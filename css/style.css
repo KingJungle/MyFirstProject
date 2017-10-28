@@ -1,0 +1,56 @@
+body {
+    background-color: #95f442;
+}
+
+.name {
+  background-color:#FF69B4;
+  color:#ffffff;
+  border: 20xp solid red;
+}
+
+.king {
+  background:#FF69B4;
+  color:#ffffff;
+  font-size: 200%;
+}
+
+header {
+    padding: 1em;
+    color: white;
+    background-color: #FF69B4;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #FF69B4;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.HERE {
+      margin: auto;
+      width: 60%;
+      border: 3px solid #FF69B4;
+      padding: 10px;
+  }
+
+.lime {
+  background:#FF69B4;
+  color:#ffffff;
+  font-size: 200%;
+}
+
+.lastpic {
+ float: left;
+}
