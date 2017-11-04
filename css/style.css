@@ -1,28 +1,22 @@
 body {
-    background-color: #95f442;
+    background-color: #3feee6;
 }
 
 .name {
-  background-color:#FF69B4;
-  color:#ffffff;
+  background-color: #fc4445;
+  color: #ffffff;
   border: 20xp solid red;
-}
-
-.king {
-  background:#FF69B4;
-  color:#ffffff;
-  font-size: 200%;
 }
 
 header {
     padding: 1em;
     color: white;
-    background-color: #FF69B4;
+    background-color: #fc4445;
 }
 
 .navbar {
   overflow: hidden;
-  background-color: #FF69B4;
+  background-color: #fc4445;
   position: fixed;
   top: 0;
   width: 100%;
@@ -36,21 +30,33 @@ header {
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
+  width: 500px;
+  margin: 0px auto;
+
 }
 
 .HERE {
       margin: auto;
       width: 60%;
-      border: 3px solid #FF69B4;
+      border: 3px solid #fc4445;
       padding: 10px;
   }
 
 .lime {
-  background:#FF69B4;
+  background:#55bcc9;
   color:#ffffff;
   font-size: 200%;
+  margin: auto;
+  width: 100%;
+  border: 2px solid #fc4445;
+  padding: 10px;
 }
 
 .lastpic {
  float: left;
+}
+
+.leyo {
+  background-color:#fc4445;
+  color: white;
 }
