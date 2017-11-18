@@ -68,3 +68,13 @@ header {
   background-color:#fc4445;
   color: white;
 }
+
+.lin {
+  background-color: #55bcc9;
+  float: center;
+}
+
+.loyal {
+  background-color: #55bcc9;
+    padding: 100px;
+}
